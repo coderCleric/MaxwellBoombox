@@ -1,5 +1,5 @@
 # MaxwellBoombox
-Turns the boombox into Maxwell the cat, with a couple of animations that it can do. This mod does not affect the music played.<br \>
+Turns the boombox into Maxwell the cat, with a couple of animations that it can do. This mod does not affect the music played.<br />
 If you run into any issues, feel free to make an issue on the [GitHub repo](https://github.com/coderCleric/MaxwellBoombox).
 
 # Credit
