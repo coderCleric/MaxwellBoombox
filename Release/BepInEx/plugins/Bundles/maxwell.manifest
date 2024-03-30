@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4197752109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1140102986ba4673868b25d2f8062700
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b14abacfbdc29abe602df6388c9f1100
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1140102986ba4673868b25d2f8062700
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/maxwell.prefab
+Dependencies: []
