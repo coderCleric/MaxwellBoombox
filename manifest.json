@@ -1,0 +1,7 @@
+{
+  "name": "MaxwellBoombox",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/coderCleric/MaxwellBoombox",
+  "description": "Turns the boombox into Maxwell the cat.",
+  "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ]
+}
